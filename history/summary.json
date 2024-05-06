@@ -4,17 +4,19 @@
     "url": "https://quiet-star-2486.ploomberapp.io",
     "icon": "https://icons.duckduckgo.com/ip3/quiet-star-2486.ploomberapp.io.ico",
     "slug": "biotests",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 168,
-    "timeDay": 149,
-    "timeWeek": 168,
-    "timeMonth": 168,
-    "timeYear": 168,
-    "dailyMinutesDown": {}
+    "time": 272,
+    "timeDay": 420,
+    "timeWeek": 272,
+    "timeMonth": 272,
+    "timeYear": 272,
+    "dailyMinutesDown": {
+      "2024-05-06": 0
+    }
   }
 ]
