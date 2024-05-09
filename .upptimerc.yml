@@ -2,7 +2,7 @@ owner: u66u # GitHub username
 repo: biotests-uptime # GitHub repository name
 sites: # List of endpoints to track
   - name: biotests
-    url: https://quiet-star-2486.ploomberapp.io
+    url: https://biotests.space
 assignees: # Users to assign downtime issues (optional)
   - u66u
 status-website:
